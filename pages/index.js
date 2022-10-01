@@ -1,7 +1,7 @@
 function Home(){
     return 
     <div>
-        <button href="agendamento">Agendamentos</button>
+        <button href="toBook">Book an appointment</button>
 
     </div>
 
