@@ -1,6 +1,5 @@
 function Home(){
-    return 
-    <div>
+    return <div>
         <button href="toBook">Book an appointment</button>
 
     </div>
